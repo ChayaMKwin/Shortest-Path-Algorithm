@@ -9,9 +9,9 @@ This Python script finds the shortest path between two nodes in a weighted direc
    |   /    |     \
    v v      v       v
    C --1--> D --3--> F
-    \         /
-     5       9
-      \     /
+    \             /
+     5          9
+      \       /
        v   v
          E
 ```
